@@ -64,8 +64,8 @@ so I go with the **inline algorithm**.
 ### timesheet
 
 + The decision on the algorithm took 10 minutes. I know problems like this from my studies
-+ writing the description above took about 1 hour. I think I deleted about the same amount of text again :)
-+ writing the implementation of the algorithm took ... well ... about 4 hours! This was my first go app, so I stumbled over pointer errors, syntax, missing generics etc. But it was fun and I learned a lot.
++ writing the description above took about 1.5 hours. I think I deleted about the same amount of text as I left :)
++ writing the implementation of the algorithm took ... well ... about 4-5 hours! This was my first go app, so I stumbled over pointer errors, syntax, missing generics etc. But it was fun and I learned a lot.
 + writing the ui took again about 2 hours. Since you didn't ask for it, you can just ignore this. (I just had some fun learning go)
 + writing the tests and tidiying up took one hour. Go's testing framework is surprisingly easy.
 
